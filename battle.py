@@ -11,7 +11,6 @@ from examples.battle_model.algo import spawn_ai
 from examples.battle_model.algo import tools
 from examples.battle_model.senario_battle import battle
 
-
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
